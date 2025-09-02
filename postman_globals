@@ -1,0 +1,39 @@
+{
+	"id": "f658ba31-9662-417b-8b48-f7296bae08fc",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://api-suits.qacoders.dev.br/api/",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "tokenAdmin",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "tokenUsers",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomClientID",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "randomClientId",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-09-02T17:28:03.804Z",
+	"_postman_exported_using": "Postman/11.60.4"
+}
